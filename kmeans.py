@@ -1,4 +1,4 @@
-import cupy as np
+import numpy as np
 import random
 
 x_train = np.load('../public_dataset/UCI/x_train.npy')
